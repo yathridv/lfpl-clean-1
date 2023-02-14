@@ -1,4 +1,4 @@
-results/books-clean.csv.gz
+results/*clean.csv.gz
 clean-demo.py
 
 # Byte-compiled / optimized / DLL files
